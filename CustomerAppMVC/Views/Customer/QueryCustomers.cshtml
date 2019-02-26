@@ -1,0 +1,32 @@
+﻿@model IEnumerable<CustomerAppMVC.Models.Customer>
+@{
+    ViewBag.Title = "QueryCustomers";
+}
+
+
+
+<h2>QueryCustomers</h2>
+
+
+<table>
+    @foreach (var customer in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(c => customer.CustomerName)
+            </td>
+            <td>
+                @Html.DisplayFor(c => customer.CustomerID)
+            </td>
+            <td>
+                @Html.DisplayFor(c => customer.Location)
+            </td>
+            <td>
+                @Html.ActionLink("Edit Customer", "EditCustomer", new {id = customer.CustomerID})
+            </td>
+
+        </tr>
+    }
+</table>
+
+

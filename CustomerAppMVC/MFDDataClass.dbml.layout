@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 9.625" name="MFDDataClass">
+  <DataContextMoniker Name="/MFDDataClassDataContext" />
+  <nestedChildShapes>
+    <classShape Id="09de2123-ce73-43da-aab1-b176a7c5a7b0" absoluteBounds="2.875, 1.125, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/MFDDataClassDataContext/Customer" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c119b357-ef9a-4030-805b-8c0e87d32c7e" absoluteBounds="2.89, 1.585, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d681ca5d-ae9c-43d6-8376-21b179064438" absoluteBounds="0.75, 3.75, 2, 1.193992513020834">
+      <DataClassMoniker Name="/MFDDataClassDataContext/Individual" />
+      <nestedChildShapes>
+        <elementListCompartment Id="cccfc3bd-cdf5-4f9a-bad5-4f51e920efed" absoluteBounds="0.765, 4.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c4c05448-e278-484c-b280-7afaa4f1f8b9" absoluteBounds="3.75, 3.75, 2, 1.7708968098958327">
+      <DataClassMoniker Name="/MFDDataClassDataContext/User" />
+      <nestedChildShapes>
+        <elementListCompartment Id="14bcc062-6b66-441d-a043-7228e8b36faa" absoluteBounds="3.765, 4.21, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="3701d7bf-afb9-42ea-b17e-df9863e6e505" absoluteBounds="5.75, 0.75, 2, 1.1939925130208335">
+      <DataClassMoniker Name="/MFDDataClassDataContext/NumSalesPerYr" />
+      <nestedChildShapes>
+        <elementListCompartment Id="27f6c0d5-7115-48e1-94ed-573b69c35ba7" absoluteBounds="5.765, 1.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="86277390-7554-425e-af33-b2cc219760a1" absoluteBounds="0.75, 6.75, 2, 1.9631982421875005">
+      <DataClassMoniker Name="/MFDDataClassDataContext/Purchase" />
+      <nestedChildShapes>
+        <elementListCompartment Id="636ac587-88ef-4e0a-a713-a71bc452625d" absoluteBounds="0.765, 7.21, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="56f09adc-95a3-447b-b812-4e40ba183a9d" absoluteBounds="6.75, 2.75, 2, 1.7708968098958327">
+      <DataClassMoniker Name="/MFDDataClassDataContext/SalesRep" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4f4a1f93-c595-4b25-818d-aed4e4aaa7a5" absoluteBounds="6.765, 3.21, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="19a006fe-6e35-4e0e-a23c-2bd34621f7e7" absoluteBounds="3.75, 6.75, 2, 1.1939925130208344">
+      <DataClassMoniker Name="/MFDDataClassDataContext/Student" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f1ff5100-bf58-4aad-ba2d-a334721e980f" absoluteBounds="3.765, 7.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="240a5d00-cf40-4d2f-9bd9-5eb34b238246" absoluteBounds="6.75, 5.75, 2, 1.0016910807291666">
+      <DataClassMoniker Name="/MFDDataClassDataContext/temptable" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2379e8cc-d6f4-48ed-8540-15ff64b032a3" absoluteBounds="6.765, 6.21, 1.9700000000000002, 0.44169108072916669" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="a851c8af-bc18-438d-ad07-a73a14ad2951" absoluteBounds="6.75, 7.75, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/MFDDataClassDataContext/Transaction" />
+      <nestedChildShapes>
+        <elementListCompartment Id="318bbf2a-9672-433d-93db-1b9ec5d5601e" absoluteBounds="6.765, 8.21, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
